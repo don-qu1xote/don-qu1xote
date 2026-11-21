@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="509" height="392" viewBox="0 0 509 392" role="img" aria-label="SixFeat: Граф музыкальных коллабораций по Genius. Кто с кем записывался, кто спродюсировал и как дойти от одного артиста до другого.">
+<title>SixFeat: Граф музыкальных коллабораций по Genius. Кто с кем записывался, кто спродюсировал и как дойти от одного артиста до другого.</title>
+<style>@font-face{font-family:'mono';src:url(data:font/woff2;base64,d09GMgABAAAAAAV8ABAAAAAAClwAAAUhAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIByCagZgP1NUQVReAIEUEQgKiSyHVQE2AiQDWAsuAAQgBXIHIAwHGz8IUZQwzmUBvk5gF+zp2lANEWNnKEMc0cCwZO7L7Lk5m9Myawz15wm8Lnji7apX9bt7Zn73CoxwINdODw4iRkQoJJFSMLp0xcPn7f2/kt2ugQaSSKJBpMsC4+7S+nm96mXJbmDmZ6DljLOQqgPdnUuqhFzRRzfvw39q6kDP2oKJz+FZtDFaI619s/sfYB52A1BLn8yEA9L//36l/06kcKRQI755U1FW5ZH4zxAO1WbQ2thimq7QAtiuOpVNTMiBCB7rold/DAIEAICiCGEES4AggCVTNlm9dvNuwjgAS/8DgACWQs3UpzN6qH1qhGhPiI+TzvahKcKAAQwhIiTq8d+4bx6fAiSXBzhEk63acgaRAPXRFWFeGkT/AJ+7+CT4BwII0/EFE6C214YR3it4gEusfI3WO5zF9gAh0emAtctQuAyiMCgTCeFcLXBahaOEiTsBbnTtKOWonQxeB+SVHA2vURgP54N4R3EF7EMWkiIsHr5aEKJwdL+shBn0EpUENiV/sRylPnBQiLBpCldu3IH3VtPlz7/CJTAZvxEtzvuQW+m1YRRIZIBCOtvbNyUAfyHySXFH0XTlmEbFASt00Il8BKPP0tegAxmPPUAdpoJN+Pd0OAHIFMsQkKtStRVWW2eDnbr1GzFp+hcPOat+Z/+fe+KM00aDVq2QCgUF24cLsvS/DkAygEqQCNkB8hbQBgoBgCIogqDo0v8CwjoMPysIhCO5La+wFUfSa17yVlaQkbQU+Mf8Bhu30UN+/AbBvSnZi31Y+sn/z1/yvlBPfnjxA3niJUt+lH/iefIzjZYUUSw2WNLd5s6LdGN2WSEzNkesRGEdn0xo1CspS9o085gGA4sKSNO8i+RmdVhijygEY9Mzi196BTRAWnPyqtzbfsnFIJtWEt2DZk2G+G2Yn5bKMt7c5UHDAOOoPtYCLppA6X63WDA/2nTYrPm6YIRxInb4yX3SoEP6zj9u2O2ICJr1vL6wHZqT95wTq7uUZx+9dqDCI8an/0tjNBpd8Q+UiGa1rhEFCV2D8ByCaNJoGxDpwAmrlUCOkIMQkKLsIHFto/kKqL9/0tepN7W4uC5TK+7xtVa3EcEAwUXMgm35wEW48mvD7/bnbOwJrzOsC8/nTgz195+jFp2+wRms6EHlG529S/QThgULTS6vxerymBaCFGrW6hqd63Fdw7IiRbkBb4nrr//Cbdd9aSdz3OM1QoKPcI/DjjyIngmx8PnZe8MZN4+GoV5A9pTzUKXXE2npSI6S3dZ3BhPuwhuBkinMKQ6R9Ugm0Vt43Le3A/k1hVV+b7ChplFQ3RTYTqb+iQXaVwLOjJ2B/GRhTchf0RxvBYmmkeGWRrLR4XQbTbjbQadoGRsGKcEFvvCSQHBJyL8A76g2zJ5lgOsXD2jwoNdqfT8TTYtN83bqTE2EWUlG9aM9SC3XKDRlhBn0p8/uMgpU3OxaOiPMZoe1r6oFLRYBPBI7UCJq4ZeGG/UsPneIhbYHrufFLBbBs5+CE0/BHmhFyV284VsoXf+zgieo7H/rAor8GXhj8/RP+XvH2W1vTrr5BXz9zs0Afm6ZirNaeazkHlYABD6Ubt3vwfqWbSBsleRMcnBBPex3HOYd/fL4HoTD9IPwGW4T572LNypoeWKdBADfrQJbqaLUMLX1uqjLSmnIiaBEw5QRCIged2wQQ0//I8WyFNupW69pQ9pN2Kdbv159pmwwpd2Qfp12GjWs3QgDAEsd6oGw1T/H/s9bxjIA) format('woff2');unicode-range:U+0020,U+002C,U+002E,U+0041,U+0043,U+0044,U+0047,U+0049,U+0052,U+0065,U+0069,U+006E,U+0073,U+0075;}
+@font-face{font-family:'mono';src:url(data:font/woff2;base64,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) format('woff2');unicode-range:U+0020,U+0041,U+0410,U+0413,U+0414,U+0415,U+041A,U+041B,U+041D,U+041E,U+0430,U+0431,U+0432,U+0433,U+0434,U+0435,U+0436,U+0437,U+0438,U+0439,U+043A,U+043B,U+043C,U+043D,U+043E,U+043F,U+0440,U+0441,U+0442,U+0443,U+0444,U+0445,U+0446,U+044B,U+044C,U+044E,U+044F;}
+@font-face{font-family:'head';src:url(data:font/woff2;base64,d09GMgABAAAAAAWQABAAAAAACkgAAAU1AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbhBocXAZgP1NUQVQqAIEEEQgKiFCHJgE2AiQDPAsgAAQgBT4HIAwHG2gIUZRPzogEPw5yMl7zBLcSspLFD9QiK4d4nlfZjsWtlHj4d7+q+5J09a8aQFAMKEfOGaPI0wILD2SRHKnN8O9pL5uTyag4KO0A8O8AFieg/wHo2/9xP3VR2Jg0ijof7gY2st+Lt9IoLIqkzYtDcDptH+g8UueRQAGko9lma1Kf6KGIuJsLKftE9AMEegKSJHQJ3Roh0DHdAnnNui17DDxdcuuKgVdi7lwzUIH6XyAun711TYNAKNoaLf0NN950sywSEmYICZuEhEOaeUnCI/oL6J2VTgYb6RISeiRBR0FPUBn6C1f2rdfPzFLv8slEXeh4fXTqfz3rH7CkrWei6K6/KV5/ams0mP4heRK6+zu+0mhD/QH1S/1dX2Ki+gcKwE+rxlG8o36S1n/1i+uvRDCD+p36ErIJvtWfyhdUDtzKVL3Trm8BhNmh0K6Szoqu2pVtvYTQi0JFQpVkLYJ5ujFIXjoUzvB0UcuaF2J75eL5k/QCIaG/Jl6NJ6XP0q2kL9JHukiPEwubqZc4ZlagmGWY27aV23hirAf5+4pQ/orRCEiL0zuMlQXNm4ECI6X75y/ciYIkIDrpI5CQMVAOfkvFDQzVV9YYa6bZ5lpnt5POuuiOBxXA63qruekGvv22zJoyrk93EGYQoqoPQtFHH98XgNgNQPwK6PmRQyEHIQ5P0jQbWUStxWRk9IVVZVTVxGxNJMKkQe/bQGq/ECyMIiMHuUgbH6o5FxLC40E1fD7SxuUGw6OHeHArB1SfJQZzuVxQzeHArTyedAgagiIsdijHpmLx6GruRUKsgPYkb7z9AicGqQASIRk0eeyc7z8CcDrXTwe906OCUSE4DEJRBPTQ8fAqhY3B/PzTg+AknVAkGEaR+JAEOAQJGvBLQl21gNnpAWlCsHBwNBQXxr8OVqUtBOLfKhyCzDxBYpMHw5BBu4xVr9aIkga997MIW+NkiDHhOL65jsGpMwZwVGtVxMN6F3h1n86Wjt3DLYvY2NnL74D+1+s+f/1UnBmokZGmNkmkTWJUsi072ic0bd4pM33JIzZLkHrNbZGq4EDyNzBQk/7aL5UqXmXjGozxjchfweTkb2PiCoGH6kU1HzFZ9RJHX0Nfc05Dkh3QVEnzD5IJcjM7jGzx6UH+EwMbs8LN9LAcEzOqgTP25q2WoBqamXCdwwCN0smz9IjmMDa7cZwel9TN8pnJ/FPWgjNz99gytfzsZeZkQ4s0JnqX61jWLg2aAWd8onyCPOEiEH7OzrNCl/NHPwx9WPaSxZlhpNZGb8XIOkQVu7qmU08AicYb+eH0ePqEx378A8hF3E894MXmNcz6tRmCOay8ieTayKtoWcfI4vGhy40Rdd+xTrzZ3/UfAgffvru4GMXCuUwruwKr38Ikdv4KsTR51D4oAmPnEVhrkwwUYwTb9Gn+3gQ0ZdG9pGDDO7pQwPdSDsuR5Rdkba46g5fxrGmv8X2pb0QxpfoE2leCstFHpQL0TSV0gumeWQa06FYveibVJ6R4lpCXNY8JzxQhXBpErSh2RDU/PR1ZvJqdGVYWkd4Dk7mOWAcrS6yjozPG0dIK48CRJmuhpXcFBaYQg7OrQLx59/KiNRtRfZb83eT8C3y9vLMefp5y+r7XD2VHZFhLAsHP5bgM8f5/2UVgmX3yEetyltM2m5jdjE33jA5PU5Z3tyCFaaWP65dyWSs1euf1RmZjo/wHpgr0MVvWT8ogbP1suixKO9xgqUXRU/OhOhqsct0VZ+x31kXnXXBHBuq4WVj2e/G/4VXpAAA=) format('woff2');unicode-range:U+0020,U+0031,U+0033,U+0035,U+0046,U+0053,U+0061,U+0065,U+0069,U+0074,U+0078;}
+@font-face{font-family:'head';src:url(data:font/woff2;base64,d09GMgABAAAAAAGIAA8AAAAAA2AAAAEyAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3IcMAZgP1NUQVQqADQRCAoBLAE2AiQDCAsGAAQgBT4HIAwHG3oCAJ6HsTNiS0iaK8n4GxEP1drb655JavOT41XHGlABgAJmYUn4E5JQeSRHbtPx67hPfggN5T9noU5ufggwobZAObYw8TDAANsyuNsYOFwO0QiiVwI9U8xVVq7euEV7+OalM9ozB6+c06rQEYjTRy+d0yAQqgGN0AiJRmpVjDVRSBBCSARzeqaZcRUTZeIEgFr25Gt95K3cgQ25jH3mxHaggbd52WbumXyqfOgGqb9jIgJyQf7GZEUIjUArMF5eP37iSlSkgOjla5AoaBWBVjUZVRWY3BGx7p0AITpGgAQVAJjvBeLRVf8a2YiFf5pSvsIbBV/4OoDQL0HwK/WyBxAAgCx7rPYfgYTdDhRTFFEHpIZuohrSkOppsNx5Zxyx3VEnHXfCFQXoNofF59F1v94FAAA=) format('woff2');unicode-range:U+0020;}
+@keyframes sa{0%,5.0%{opacity:0}13.0%,82%{opacity:1}94%,100%{opacity:0}}.sa{animation:sa 6.0s ease-out infinite}
+@keyframes sb{0%,16.7%{opacity:0}24.7%,82%{opacity:1}94%,100%{opacity:0}}.sb{animation:sb 6.0s ease-out infinite}
+@keyframes sc{0%,28.3%{opacity:0}36.3%,82%{opacity:1}94%,100%{opacity:0}}.sc{animation:sc 6.0s ease-out infinite}</style>
+<defs><clipPath id="cc"><rect x="0.5" y="0.5" width="499" height="391" rx="16"/></clipPath><pattern id="dsf" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#ebe7df"/></pattern><linearGradient id="gsf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="ksf"><rect x="0" y="0" width="500" height="170" fill="url(#gsf)"/></mask><radialGradient id="rsf"><stop offset="0" stop-color="#c25e00" stop-opacity="0.10"/><stop offset="1" stop-color="#c25e00" stop-opacity="0"/></radialGradient><filter id="sfg" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect x="0.5" y="0.5" width="499" height="391" rx="16" fill="#fbfaf7" stroke="#dedad2"/>
+<g clip-path="url(#cc)">
+<rect x="0" y="0" width="500" height="170" fill="url(#dsf)" mask="url(#ksf)"/>
+<ellipse cx="250" cy="88" rx="170" ry="70" fill="url(#rsf)"/>
+<g class="sa">
+<line x1="250" y1="88" x2="324.0" y2="88.0" stroke="#d9d5cc" stroke-width="1.3"/>
+<line x1="250" y1="88" x2="287.0" y2="117.4" stroke="#d9d5cc" stroke-width="1.3"/>
+<line x1="250" y1="88" x2="213.0" y2="117.4" stroke="#d9d5cc" stroke-width="1.3"/>
+<line x1="250" y1="88" x2="176.0" y2="88.0" stroke="#d9d5cc" stroke-width="1.3"/>
+<line x1="250" y1="88" x2="213.0" y2="58.6" stroke="#d9d5cc" stroke-width="1.3"/>
+<line x1="250" y1="88" x2="287.0" y2="58.6" stroke="#d9d5cc" stroke-width="1.3"/>
+</g>
+<g class="sb">
+<line x1="324.0" y1="88.0" x2="415.1" y2="71.1" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="324.0" y1="88.0" x2="411.1" y2="109.1" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="287.0" y1="117.4" x2="378.7" y2="127.8" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="287.0" y1="117.4" x2="289.6" y2="146.4" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="213.0" y1="117.4" x2="225.4" y2="147.4" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="213.0" y1="117.4" x2="119.3" y2="127.0" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="176.0" y1="88.0" x2="86.9" y2="107.1" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="176.0" y1="88.0" x2="88.5" y2="67.4" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="213.0" y1="58.6" x2="119.8" y2="48.8" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="213.0" y1="58.6" x2="220.7" y2="28.9" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="287.0" y1="58.6" x2="280.2" y2="28.9" stroke="#d9d5cc" stroke-width="1.1"/>
+<line x1="287.0" y1="58.6" x2="382.5" y2="49.8" stroke="#d9d5cc" stroke-width="1.1"/>
+<circle cx="415.1" cy="71.1" r="3" fill="#b9b4aa"/>
+<circle cx="411.1" cy="109.1" r="4" fill="#b9b4aa"/>
+<circle cx="378.7" cy="127.8" r="5" fill="#b9b4aa"/>
+<circle cx="289.6" cy="146.4" r="3" fill="#b9b4aa"/>
+<circle cx="225.4" cy="147.4" r="4" fill="#b9b4aa"/>
+<circle cx="119.3" cy="127.0" r="5" fill="#b9b4aa"/>
+<circle cx="86.9" cy="107.1" r="3" fill="#b9b4aa"/>
+<circle cx="88.5" cy="67.4" r="4" fill="#b9b4aa"/>
+<circle cx="119.8" cy="48.8" r="5" fill="#b9b4aa"/>
+<circle cx="220.7" cy="28.9" r="3" fill="#b9b4aa"/>
+<circle cx="280.2" cy="28.9" r="4" fill="#b9b4aa"/>
+<circle cx="382.5" cy="49.8" r="5" fill="#b9b4aa"/>
+</g>
+<g class="sa">
+<circle cx="324.0" cy="88.0" r="5" fill="#b9b4aa"/>
+<circle cx="287.0" cy="117.4" r="5" fill="#b9b4aa"/>
+<circle cx="213.0" cy="117.4" r="5" fill="#b9b4aa"/>
+<circle cx="176.0" cy="88.0" r="5" fill="#b9b4aa"/>
+<circle cx="213.0" cy="58.6" r="5" fill="#b9b4aa"/>
+<circle cx="287.0" cy="58.6" r="5" fill="#b9b4aa"/>
+</g>
+<g class="sc"><path d="M250 88 L324.0 88.0 L411.1 109.1" fill="none" stroke="#c25e00" stroke-width="5" opacity=".5" filter="url(#sfg)"/>
+<path d="M250 88 L324.0 88.0 L411.1 109.1" fill="none" stroke="#c25e00" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="324.0" cy="88.0" r="5.5" fill="#c25e00"/>
+<circle cx="411.1" cy="109.1" r="5.5" fill="#c25e00"/>
+</g>
+<circle cx="250" cy="88" r="16" fill="#c25e00" opacity=".35" filter="url(#sfg)"/>
+<circle cx="250" cy="88" r="8" fill="#c25e00"/>
+</g>
+<rect x="24" y="25" width="102" height="28" rx="14" fill="#fbfaf7" stroke="#dedad2"/>
+<circle cx="40" cy="39" r="3.5" fill="#a3a9b2"/>
+<text x="52.0" y="44.0" font-family="mono" font-size="11.5" fill="#5d6470" letter-spacing="2">ДОДЕЛАН</text>
+<g fill="none" stroke="#5d6470" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M454 40 L468 26"/><path d="M458.2 26 H468 V35.8"/></g>
+<text x="30.0" y="210.0" font-family="head" font-size="30" fill="#1d2026">SixFeat</text>
+<text x="32.0" y="242.0" font-family="mono" font-size="13.5" fill="#5d6470">Граф музыкальных коллабораций по Genius.</text>
+<text x="32.0" y="263.0" font-family="mono" font-size="13.5" fill="#5d6470">Кто с кем записывался, кто спродюсировал</text>
+<text x="32.0" y="284.0" font-family="mono" font-size="13.5" fill="#5d6470">и как дойти от одного артиста до другого.</text>
+<line x1="32" y1="316.5" x2="468" y2="316.5" stroke="#dedad2"/>
+<text x="32.0" y="350.0" font-family="head" font-size="21" fill="#c25e00">5</text>
+<text x="32.0" y="370.0" font-family="mono" font-size="12" fill="#5d6470">сервисов</text>
+<text x="177.3" y="350.0" font-family="head" font-size="21" fill="#c25e00">31</text>
+<text x="177.3" y="370.0" font-family="mono" font-size="12" fill="#5d6470">джоба в CI</text>
+<text x="322.7" y="350.0" font-family="head" font-size="21" fill="#c25e00">15</text>
+<text x="322.7" y="370.0" font-family="mono" font-size="12" fill="#5d6470">ADR</text>
+</svg>
